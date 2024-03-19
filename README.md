@@ -11,7 +11,7 @@
 I'm a Lifetime Learner who strives to be able to do anything by learning and practicing. I would like to share my new-learning topics with you.
 
 [![LinkedIn][1]][2]
-[![Medium][3]][4]
+[![Medium][4]][3]
 
 ***
 #### Languages
