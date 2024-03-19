@@ -1,11 +1,11 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atakanreyhanioglu&label=Profile%20views&color=000000&style=flat" alt="atakanreyhanioglu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GorkemCakirr&label=Profile%20views&color=000000&style=flat" alt="atakanreyhanioglu" /> </p
 
-![Redis](assets/img.png)
+<img src="./assets/Hi there, (1).png"></img>
 
-[1]:  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[2]:  https://medium.com/@atakan.reyhanioglu
-[3]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[4]:  https://www.linkedin.com/in/atakan-reyhanio%C4%9Flu-631730185/
+[1] : https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedIn&color=0077b5
+[2] : https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1r-59058b292/
+[3] : https://medium.com/@gorkmckr
+[4] : https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium
 
 
 I'm a Lifetime Learner who strives to be able to do anything by learning and practicing. I would like to share my new-learning topics with you.
