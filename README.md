@@ -7,7 +7,7 @@
 [3]: https://medium.com/@gorkmckr
 [4]: https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium
 
-Everyday I practise about my skills and knowwledge.It will be an infinite loop.I am also appreciate to share my last works and new benefit topics with
+Everyday I practise about my skills and knowwledge.It will be an infinite loop.I am also appreciate to share my last works and new benefitable topics with you.
 
 [![LinkedIn][1]][2]
 [![Medium][4]][3]
