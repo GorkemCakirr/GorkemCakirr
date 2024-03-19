@@ -2,10 +2,10 @@
 
 <img src="./assets/Hi there, (1).png"></img>
 
-[1] : https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedIn&color=0077b5
-[2] : https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1r-59058b292/
-[3] : https://medium.com/@gorkmckr
-[4] : https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium
+[1]: https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedIn&color=0077b5
+[2]: https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7ak%C4%B1r-59058b292/
+[3]: https://medium.com/@gorkmckr
+[4]: https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium
 
 
 I'm a Lifetime Learner who strives to be able to do anything by learning and practicing. I would like to share my new-learning topics with you.
