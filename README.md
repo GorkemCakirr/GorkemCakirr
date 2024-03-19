@@ -10,8 +10,8 @@
 
 I'm a Lifetime Learner who strives to be able to do anything by learning and practicing. I would like to share my new-learning topics with you.
 
-[![Medium][1]][2]
-[![LinkedIn][3]][4]
+[![LinkedIn][1]][2]
+[![Medium][3]][4]
 
 ***
 #### Languages
