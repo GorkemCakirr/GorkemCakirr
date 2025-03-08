@@ -7,7 +7,8 @@
 [3]: https://medium.com/@gorkmckr
 [4]: https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium
 
-Everyday I practise about my skills and knowledge.It will be an infinite loop.I am also appreciate to share my last works and new useful topics with you.
+
+Nowadays a software developer can adapt to any language, discipline and project. All you need is time and practice, technology gives us this chance and don't ruin it.There is no repo here you can invest some of them in my resume.
 
 [![LinkedIn][1]][2]
 [![Medium][4]][3]
