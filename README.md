@@ -22,6 +22,8 @@ Nowadays a software developer can adapt to any language, discipline and project.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=red)
 
 #### Frameworks
 
@@ -31,10 +33,10 @@ Nowadays a software developer can adapt to any language, discipline and project.
 #### Other
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)s
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Git](https://img.shields.io/badge/git%20ci-%23181717.svg?style=for-the-badge&logo=git&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%234ea94b.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Hosting
@@ -46,10 +48,9 @@ Nowadays a software developer can adapt to any language, discipline and project.
 
 #### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%234ea94b.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 #### Testing
 
